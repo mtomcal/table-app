@@ -1,7 +1,6 @@
 {
-  "name": "essential-react",
-  "version": "0.5.0",
-  "description": "A minimal skeleton for building testable React apps using Babel",
+  "name": "q-sensei-test-app",
+  "version": "0.1.0",
   "main": "src/main.js",
   "scripts": {
     "postinstall": "npm run build",
@@ -11,22 +10,6 @@
     "coveralls": "nyc report --reporter=text-lcov | coveralls",
     "clean": "rm build/app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/pheuter/essential-react.git"
-  },
-  "keywords": [
-    "skeleton",
-    "template",
-    "react",
-    "quickstart"
-  ],
-  "author": "Mark Fayngersh",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/pheuter/essential-react/issues"
-  },
-  "homepage": "https://github.com/pheuter/essential-react",
   "devDependencies": {
     "autoprefixer": "^6.0.2",
     "ava": "^0.12.0",
