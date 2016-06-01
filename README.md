@@ -1,4 +1,4 @@
-# q-sensei-test-app
+# table-app
 Table Exercise App for Fortune 500 Companies.
 
 ## Libraries Used
